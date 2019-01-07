@@ -4,8 +4,14 @@ DICOM image standard:
  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354356/
 
 Background reading: 
- - https://www.med-ed.virginia.edu/courses/rad/cardiacmr/index.html
+ - Radiology resident's tutorial: https://www.med-ed.virginia.edu/courses/rad/cardiacmr/index.html
    - views: https://www.med-ed.virginia.edu/courses/rad/cardiacmr/Anatomy/Views.html
+ - David Clunie's Medical Image Format Site: http://www.dclunie.com/
+ - File formats: http://neuro.imm.dtu.dk/staff/fnielsen/bib/Nielsen2001BibNeuroinformatics/File_formats.html
+   - mriconvert: https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter
+   - (X)Medcon: http://xmedcon.sourceforge.net//Main/Faq
+ - Reference databases
+   - Patient Contributed Medical Imaging database: http://www.pcir.org/
 
 Cardiac MRI sequences in a healthy volunteer. Original study for the purposes of establishing reproducibility in a new scan sequence among healthy controls. 
 
