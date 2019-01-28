@@ -4,6 +4,7 @@ DICOM image standard:
  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354356/
 
 Background reading: 
+ - MRI and RF coil theory: https://www.maximintegrated.com/en/app-notes/index.mvp/id/4681
  - Radiology resident's tutorial: https://www.med-ed.virginia.edu/courses/rad/cardiacmr/index.html
    - views: https://www.med-ed.virginia.edu/courses/rad/cardiacmr/Anatomy/Views.html
  - David Clunie's Medical Image Format Site: http://www.dclunie.com/
